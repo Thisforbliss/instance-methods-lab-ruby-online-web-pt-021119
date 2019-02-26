@@ -3,8 +3,8 @@ class Dog
     puts "Woof!"
   end
     
-    def  
-      "The dog is sitting"
+    def sit  
+      @sitting = "The Dog is sitting"
     end
     
   
