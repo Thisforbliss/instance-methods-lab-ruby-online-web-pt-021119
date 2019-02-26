@@ -4,7 +4,7 @@ class Dog
   end
     
     def sit  
-      @sitting = "The Dog is sitting"
+      @sitting = puts "The Dog is sitting"
     end
     
   
